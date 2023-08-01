@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working as a software engineer intern for an Egyptian fintech startup called "Patron".
+I'm also trying to learn data analysis because I find it interesting, and I'm trying to improve my knowledge in this field. I'll be happy if you help me with any advice.
+You can reach me on linkedin: linkedin.com/in/soubky
+
