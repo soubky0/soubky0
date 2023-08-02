@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm currently working as a software engineer intern for an Egyptian fintech startup called "Patron".
 I'm also trying to dive into the data field because I find it interesting, and I'm trying to improve my knowledge in this field. I'll be glad if you can help me with any advice.
-You can reach me on [LinkedIn](linkedin.com/in/soubky)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/soubky)
 
