@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You can find below repos that I worked on with my colleagues throughout different courses that I took in University. I am an undergraduate CSE student in the German University in Cairo. I'm currently working as a software engineer intern for an Egyptian fintech startup called [patron](https://www.patroneg.com). I'm extremely passionate about the computer sciences field. You can reach me on [LinkedIn](https://www.linkedin.com/in/soubky)
+You can find below repos that I worked on with my colleagues throughout different courses that I took in University. I am an undergraduate CSE student in the German University in Cairo. I'm extremely passionate about the computer sciences field. You can reach me on [LinkedIn](https://www.linkedin.com/in/soubky)
 
