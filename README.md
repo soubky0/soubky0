@@ -10,8 +10,8 @@
 
 <!-- Image deletion URL: https://ibb.co/Mfq1rgF/bfd17cabcb8f5c3a092409870397c76c -->
 
-### Hi there 👋
-
+<img href="https://www.linkedin.com/in/soubky" src="{(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
+<img href="https://leetcode.com/soubky/" src="{https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black}" />
 <!--
 **soubky0/soubky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You can find below repos that I worked on with my colleagues throughout different courses that I took in University. I am an undergraduate CSE student in the German University in Cairo. I'm extremely passionate about the computer sciences field. You can reach me on [LinkedIn](https://www.linkedin.com/in/soubky)
-
