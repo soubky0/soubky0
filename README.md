@@ -1,5 +1,8 @@
-[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-
+<div align="row">
+    [![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+    <img href="https://www.linkedin.com/in/soubky" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img href="https://leetcode.com/soubky/" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</div>
 <div align="justify">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/G9gMydz/soubky0-gif.gif">
@@ -9,9 +12,6 @@
 </div>
 
 <!-- Image deletion URL: https://ibb.co/Mfq1rgF/bfd17cabcb8f5c3a092409870397c76c -->
-
-<img href="https://www.linkedin.com/in/soubky" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img href="https://leetcode.com/soubky/" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 <!--
 **soubky0/soubky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
