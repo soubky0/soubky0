@@ -3,6 +3,9 @@
     <img href="https://www.linkedin.com/in/soubky" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     <img href="https://leetcode.com/soubky/" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </div>
+
+---
+
 <div align="justify">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/G9gMydz/soubky0-gif.gif">
