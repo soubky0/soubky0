@@ -10,8 +10,8 @@
 
 <!-- Image deletion URL: https://ibb.co/Mfq1rgF/bfd17cabcb8f5c3a092409870397c76c -->
 
-<img href="https://www.linkedin.com/in/soubky" src="{(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
-<img href="https://leetcode.com/soubky/" src="{https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black}" />
+<img href="https://www.linkedin.com/in/soubky" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img href="https://leetcode.com/soubky/" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 <!--
 **soubky0/soubky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
