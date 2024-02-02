@@ -6,13 +6,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/G9gMydz/soubky0-gif.gif">
     <img alt="GIFOS" src="https://i.ibb.co/G9gMydz/soubky0-gif.gif">
 </picture>
-
-<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on Fri Feb 02 03:03:47 PM IST 2024</i></sub>
-
-<details>
-<summary>More details</summary>
-
-</details>
 </div>
 
 <!-- Image deletion URL: https://ibb.co/Mfq1rgF/bfd17cabcb8f5c3a092409870397c76c -->
