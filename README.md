@@ -11,7 +11,7 @@
 <img height="316" width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=soubky10&theme=github_dark&force_username=true&border_color=404040" alt="soubky10 Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/soubky">
-<img height="316" width="400" src="https://leetcard.jacoblin.cool/soubky?theme=dark&font=Ubuntu" alt="soubky Leetcode Stats"/>
+<img height="316" width="400" src="https://leetcard.jacoblin.cool/soubky?theme=dark&font=Ubuntu&ext=activity" alt="soubky Leetcode Stats"/>
 </a>
 </span>
 </p>
