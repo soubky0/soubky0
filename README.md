@@ -1,21 +1,21 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
-
 <p align="center">
     <b>Welcome to my profile!</b><br><br>
     <i>
         I'm Omar Soubky, and I'm currently learning ML, Linux, and Rust.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i>
-<span>
+    <hr>
+</p>
+<p align="center">
 <a href="https://codeforces.com/profile/soubky10">
 <img height="316" width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=soubky10&theme=github_dark&force_username=true&border_color=404040" alt="soubky10 Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/soubky">
 <img height="316" width="400" src="https://leetcard.jacoblin.cool/soubky?theme=dark&font=Ubuntu&ext=activity" alt="soubky Leetcode Stats"/>
 </a>
-</span>
 </p>
-
+    <hr>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/soubky0)
