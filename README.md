@@ -5,8 +5,8 @@
     <i>
         I'm Omar Soubky, and I'm currently learning ML, Linux, and Rust.<br>
         Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <span>
+    </i>
+<span>
 <a href="https://codeforces.com/profile/soubky10">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=soubky10&theme=github_dark&force_username=true&border_color=404040" alt="soubky10 Codeforces Stats"/>
 </a>
@@ -14,7 +14,6 @@
 <img height="316" src="https://leetcard.jacoblin.cool/soubky?theme=dark&font=Ubuntu&ext=heatmap" alt="soubky Leetcode Stats"/>
 </a>
 </span>
-    <br />
 </p>
 
 
