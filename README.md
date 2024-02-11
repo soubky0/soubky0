@@ -6,14 +6,15 @@
         I'm Omar Soubky, and I'm currently learning ML, Linux, and Rust.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <p align="center">Send me an <a href="mailto:soubky10@gmail.com">email</a>.</p>
-    <p align="center">Take a look at my <a href="https://drive.google.com/file/d/1JUv5CYU4u6at5Xe6JGjlJWLtTEe3qDWr/view?usp=sharing">resume</a>.</p>
-    <br />
-<div align="center">
-<a href="https://linkedin.com/in/soubky/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <span>
+<a href="https://codeforces.com/profile/soubky10">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=soubky10&theme=github_dark&force_username=true&border_color=404040" alt="soubky10 Codeforces Stats"/>
 </a>
-</div>
+<a href="https://leetcode.com/soubky">
+<img height="316" src="https://leetcard.jacoblin.cool/soubky?theme=dark&font=Ubuntu&ext=heatmap" alt="soubky Leetcode Stats"/>
+</a>
+</span>
+    <br />
 </p>
 
 
