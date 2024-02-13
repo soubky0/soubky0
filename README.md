@@ -4,6 +4,8 @@
     <i>
         I'm Omar Soubky, and I'm currently learning ML, Linux, and Rust.<br>
         Open to collaborating on interesting and innovative projects.<br>
+        <br>
+<img src="https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg" />
     </i>
     <hr>
 </p>
