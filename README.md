@@ -4,5 +4,5 @@
 - 🐹 I’m currently learning **Go**.
 
 #### ⚙️ My Development Environment
-- **OS:** Fedora 41 Linux
 - **Laptop:** Framework 13
+- **OS:** Fedora 41 Linux
