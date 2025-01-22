@@ -1,8 +1,19 @@
-### Hi, I'm Omar Soubky
+# Hi, I'm Omar Soubky! 👋
 
-- 🖥️ I've been coding in **JavaScript** and **Python** primarily for more than a year.
-- 🐹 I’m currently learning **Go** and **ML/AI**.
+---
 
-#### ⚙️ My Development Environment
-- **Laptop:** Framework 13
-- **OS:** Ubuntu with [Omakub](https://omakub.org/)
+## 🛠️ About Me
+- 💼 Working professionally with **MERN + TypeScript**.
+- 🔥 Passionate about open-source, clean architecture, and efficient development workflows.
+
+---
+
+## 🖥️ Development Environment
+- **Laptop:** Framework 13 💻
+- **OS:** Ubuntu + [Omakub](https://omakub.org/)
+---
+
+## 📚 Currently Learning
+- 🐹 Golang
+- 🤖 Machine Learning & AI
+- 🚀 System Design & Scalability
