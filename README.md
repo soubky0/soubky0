@@ -8,12 +8,13 @@
 
 ---
 
-## 🖥️ Development Environment
-- **Laptop:** Framework 13 💻
-- **OS:** Ubuntu + [Omakub](https://omakub.org/)
----
-
 ## 📚 Currently Learning
 - 🐹 Golang
 - 🤖 Machine Learning & AI
 - 🚀 System Design & Scalability
+
+---
+
+## 🖥️ Development Environment
+- **Laptop:** Framework 13 💻
+- **OS:** Ubuntu + [Omakub](https://omakub.org/)
