@@ -10,7 +10,7 @@
 
 ## 📚 Currently Learning
 - 🐹 Golang
-- 🤖 Machine Learning & AI
+- 🤖 LLMs (Prompt Engineering, AI Agents, RAG, Fine-Tuning)
 - 🚀 System Design & Scalability
 
 ---
