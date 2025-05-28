@@ -17,4 +17,5 @@
 
 ## 🖥️ Development Environment
 - **Laptop:** Framework 13 💻
-- **OS:** NixOS
+- **OS:** Ubuntu with Omakub
+  
