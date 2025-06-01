@@ -30,6 +30,7 @@ Passionate Full-Stack Developer with 1+ years of experience building scalable, h
 - Node.js
 - Express.js
 - Django REST Framework
+- FastAPI
 - Gin
 - GraphQL
 
@@ -47,9 +48,9 @@ Passionate Full-Stack Developer with 1+ years of experience building scalable, h
 
 #### [Canto Store](https://canto-store.com)
 
-Egyptian E-commerce Marketplace
+_Egyptian E-commerce Marketplace_
 
-- Led end-to-end development as team lead and architect
+- Led end-to-end development
 - Managed deployment and infrastructure
 
 ### 🌟 What I'm Currently Learning
