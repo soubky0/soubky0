@@ -8,26 +8,6 @@
 
 Passionate Full-Stack Developer with 1+ years of experience building scalable, high-performance web applications. Currently working at Blended (AI-Driven Education Platform) in Germany, delivering innovative solutions that make a real impact.
 
-### 💼 Professional Experience
-
-#### Software Engineer @ Blended (AI-Driven Education Platform)
-
-_Oct 2024 - Present | Bruchsal, Germany_
-
-- Delivered a fully digital admissions module reducing enrollment processing time by 50%
-- Developed key platform features including Mail UI and online proctoring integration
-- Implemented NLP-based internal tools for MongoDB query optimization
-- Conducted comprehensive testing across 10+ modules, improving platform stability
-
-#### Software Engineer @ Patron (Education Financing)
-
-_Sep 2023 - Feb 2024 | Cairo, Egypt_
-
-- Built internal CRM platform saving $2,000 annually
-- Integrated Firebase for real-time updates and push notifications
-- Refactored codebase using BLoC state management
-- Developed responsive Flutter UIs from Figma designs
-
 ### 🛠️ Tech Stack
 
 #### Languages
