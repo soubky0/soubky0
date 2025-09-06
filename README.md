@@ -1,69 +1,9 @@
-# Omar Soubky 👋
+# 👋 Hi, I’m Omar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/soubky)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/soubky0)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:o.soubky@gmail.com)
+I’m a **Full-Stack Developer** passionate about building scalable web apps and integrating AI into real-world products.  
 
-## 🚀 Full-Stack Developer
+- 💻 Experienced in the **JavaScript ecosystem** (React, Next.js, Node.js) with 2+ years in **e-learning** and **e-commerce** domains.  
+- 🤖 Skilled in designing **AI-driven features and automation**, leveraging LLMs to enhance user experience and streamline workflows.  
+- ⚡ Enjoy tackling performance bottlenecks, improving developer experience, and shipping impactful features end-to-end.  
 
-Passionate Full-Stack Developer with 1+ years of experience building scalable, high-performance web applications. Currently working at Blended (AI-Driven Education Platform) in Germany, delivering innovative solutions that make a real impact.
-
-### 🛠️ Tech Stack
-
-#### Languages
-
-- JavaScript/TypeScript
-- Go
-- Python
-
-#### Frontend
-
-- React.js
-- Next.js
-- Progressive Web Apps (PWAs)
-- TailwindCSS
-- TanStack Query
-- Zustand
-
-#### Backend
-
-- Node.js
-- Express.js
-- Django REST Framework
-- FastAPI
-- Gin
-- GraphQL
-
-#### Databases & DevOps
-
-- MongoDB
-- PostgreSQL
-- Docker
-- Nginx
-- Git
-- GitHub Actions
-- AWS/GCP/DigitalOcean
-
-### 🏗️ Notable Projects
-
-#### [Canto Store](https://canto-store.com)
-
-_Egyptian E-commerce Marketplace_
-
-- Led end-to-end development
-- Managed deployment and infrastructure
-
-### 🌟 What I'm Currently Learning
-
-- Advanced LLM Applications (Prompt Engineering, AI Agents, RAG)
-- System Design & Scalability
-
-### 💻 Development Environment
-
-- **Laptop:** Framework 13
-- **OS:** Ubuntu with Omakub
-- **IDE:** Cursor
-
----
-
-_Open to new opportunities and collaborations. Let's connect!_
+📌 Focused on building **AI-powered features** that improve learning experiences and streamline digital workflows.
